@@ -1,0 +1,14 @@
+D:\bai15\ex3\bin\Debug\net9.0-windows\ProgressControl.exe
+D:\bai15\ex3\bin\Debug\net9.0-windows\ProgressControl.deps.json
+D:\bai15\ex3\bin\Debug\net9.0-windows\ProgressControl.runtimeconfig.json
+D:\bai15\ex3\bin\Debug\net9.0-windows\ProgressControl.dll
+D:\bai15\ex3\bin\Debug\net9.0-windows\ProgressControl.pdb
+D:\bai15\ex3\obj\Debug\net9.0-windows\ProgressControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\bai15\ex3\obj\Debug\net9.0-windows\ProgressControl.AssemblyInfoInputs.cache
+D:\bai15\ex3\obj\Debug\net9.0-windows\ProgressControl.AssemblyInfo.cs
+D:\bai15\ex3\obj\Debug\net9.0-windows\ProgressControl.csproj.CoreCompileInputs.cache
+D:\bai15\ex3\obj\Debug\net9.0-windows\ProgressControl.dll
+D:\bai15\ex3\obj\Debug\net9.0-windows\refint\ProgressControl.dll
+D:\bai15\ex3\obj\Debug\net9.0-windows\ProgressControl.pdb
+D:\bai15\ex3\obj\Debug\net9.0-windows\ProgressControl.genruntimeconfig.cache
+D:\bai15\ex3\obj\Debug\net9.0-windows\ref\ProgressControl.dll

@@ -1,0 +1,17 @@
+E:\Code\NguyenTienHung_6551071039_BTLT4\Bai14\FormCapNhat2\FormCapNhat2\bin\Debug\net10.0-windows\FormCapNhat2.exe
+E:\Code\NguyenTienHung_6551071039_BTLT4\Bai14\FormCapNhat2\FormCapNhat2\bin\Debug\net10.0-windows\FormCapNhat2.deps.json
+E:\Code\NguyenTienHung_6551071039_BTLT4\Bai14\FormCapNhat2\FormCapNhat2\bin\Debug\net10.0-windows\FormCapNhat2.runtimeconfig.json
+E:\Code\NguyenTienHung_6551071039_BTLT4\Bai14\FormCapNhat2\FormCapNhat2\bin\Debug\net10.0-windows\FormCapNhat2.dll
+E:\Code\NguyenTienHung_6551071039_BTLT4\Bai14\FormCapNhat2\FormCapNhat2\bin\Debug\net10.0-windows\FormCapNhat2.pdb
+E:\Code\NguyenTienHung_6551071039_BTLT4\Bai14\FormCapNhat2\FormCapNhat2\obj\Debug\net10.0-windows\FormCapNhat2.Form1.resources
+E:\Code\NguyenTienHung_6551071039_BTLT4\Bai14\FormCapNhat2\FormCapNhat2\obj\Debug\net10.0-windows\FormCapNhat2.csproj.GenerateResource.cache
+E:\Code\NguyenTienHung_6551071039_BTLT4\Bai14\FormCapNhat2\FormCapNhat2\obj\Debug\net10.0-windows\FormCapNhat2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\NguyenTienHung_6551071039_BTLT4\Bai14\FormCapNhat2\FormCapNhat2\obj\Debug\net10.0-windows\FormCapNhat2.AssemblyInfoInputs.cache
+E:\Code\NguyenTienHung_6551071039_BTLT4\Bai14\FormCapNhat2\FormCapNhat2\obj\Debug\net10.0-windows\FormCapNhat2.AssemblyInfo.cs
+E:\Code\NguyenTienHung_6551071039_BTLT4\Bai14\FormCapNhat2\FormCapNhat2\obj\Debug\net10.0-windows\FormCapNhat2.csproj.CoreCompileInputs.cache
+E:\Code\NguyenTienHung_6551071039_BTLT4\Bai14\FormCapNhat2\FormCapNhat2\obj\Debug\net10.0-windows\FormCapNhat2.sourcelink.json
+E:\Code\NguyenTienHung_6551071039_BTLT4\Bai14\FormCapNhat2\FormCapNhat2\obj\Debug\net10.0-windows\FormCapNhat2.dll
+E:\Code\NguyenTienHung_6551071039_BTLT4\Bai14\FormCapNhat2\FormCapNhat2\obj\Debug\net10.0-windows\refint\FormCapNhat2.dll
+E:\Code\NguyenTienHung_6551071039_BTLT4\Bai14\FormCapNhat2\FormCapNhat2\obj\Debug\net10.0-windows\FormCapNhat2.pdb
+E:\Code\NguyenTienHung_6551071039_BTLT4\Bai14\FormCapNhat2\FormCapNhat2\obj\Debug\net10.0-windows\FormCapNhat2.genruntimeconfig.cache
+E:\Code\NguyenTienHung_6551071039_BTLT4\Bai14\FormCapNhat2\FormCapNhat2\obj\Debug\net10.0-windows\ref\FormCapNhat2.dll

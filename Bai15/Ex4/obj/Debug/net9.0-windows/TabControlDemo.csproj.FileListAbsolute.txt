@@ -1,0 +1,14 @@
+D:\bai15\ex4\bin\Debug\net9.0-windows\TabControlDemo.exe
+D:\bai15\ex4\bin\Debug\net9.0-windows\TabControlDemo.deps.json
+D:\bai15\ex4\bin\Debug\net9.0-windows\TabControlDemo.runtimeconfig.json
+D:\bai15\ex4\bin\Debug\net9.0-windows\TabControlDemo.dll
+D:\bai15\ex4\bin\Debug\net9.0-windows\TabControlDemo.pdb
+D:\bai15\ex4\obj\Debug\net9.0-windows\TabControlDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\bai15\ex4\obj\Debug\net9.0-windows\TabControlDemo.AssemblyInfoInputs.cache
+D:\bai15\ex4\obj\Debug\net9.0-windows\TabControlDemo.AssemblyInfo.cs
+D:\bai15\ex4\obj\Debug\net9.0-windows\TabControlDemo.csproj.CoreCompileInputs.cache
+D:\bai15\ex4\obj\Debug\net9.0-windows\TabControlDemo.dll
+D:\bai15\ex4\obj\Debug\net9.0-windows\refint\TabControlDemo.dll
+D:\bai15\ex4\obj\Debug\net9.0-windows\TabControlDemo.pdb
+D:\bai15\ex4\obj\Debug\net9.0-windows\TabControlDemo.genruntimeconfig.cache
+D:\bai15\ex4\obj\Debug\net9.0-windows\ref\TabControlDemo.dll
